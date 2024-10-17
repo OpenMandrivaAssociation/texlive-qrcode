@@ -3,7 +3,7 @@ Version:	36065
 Release:	2
 Summary:	Generate QR codes in LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/qrcode
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/qrcode
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/qrcode.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/qrcode.doc.r%{version}.tar.xz
